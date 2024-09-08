@@ -1,0 +1,29 @@
+*{
+    color: blue; /* star means applied all over entire page*/
+    font-family: 'Times New Roman';
+}
+h1{
+    color: black;
+    text-align: center;
+    text-transform: capitalize;
+    
+}
+#name { /* hashtag it for id */
+    color: red;
+
+}
+.myclass{   /* class use fullstop */
+    color: rgb(226, 147, 43);
+}
+p{
+    text-transform: capitalize;
+    line-height: 30px;
+    font-size: 20px;
+    fo
+}
+#outer{
+    font-size:20px;
+}
+#inner{
+    font-size: 30px;
+}

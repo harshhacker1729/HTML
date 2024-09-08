@@ -1,0 +1,20 @@
+p{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-display:swap ;
+}
+a:link{
+    color:red ;
+    font-size: 20px;
+    text-decoration: none;
+    
+}
+
+ body {
+        font-family: Arial, sans-serif;
+        font-size: 16px;
+        line-height: 1.5;
+        color: #333;
+        background-color: #f9f9f9;
+}

@@ -1,0 +1,18 @@
+* {
+    background-image:url("https://www.bing.com/ck/a?!&&p=8fd28d2df95f1ca2JmltdHM9MTcyNDYzMDQwMCZpZ3VpZD0wZmE3ZTIyYi1kMzc1LTYzNGUtM2ZiZS1mNmNhZDI4NzYyYTAmaW5zaWQ9NTYyMA&ptn=3&ver=2&hsh=3&fclid=0fa7e22b-d375-634e-3fbe-f6cad28762a0&u=a1L2ltYWdlcy9zZWFyY2g_cT1iYWNrZ3JvdW5kJTIwaW1hZ2VzJTIwZnVubiZGT1JNPUlRRlJCQSZpZD0yNkE3QUNCOEUzN0NDNTc3RDkwM0RBNzdBMDUzOUREN0U1RUEwNDhG&ntb=1");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+
+header{
+    font-size: 60px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+main{
+    margin-top: 100px;
+    font-size: large;
+}
